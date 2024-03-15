@@ -1,0 +1,7 @@
+__pycache__/
+~/
+History/
+nnUNet/
+Results/
+samples/
+wandb/
